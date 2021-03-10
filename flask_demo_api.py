@@ -23,8 +23,8 @@ def get_tasks():
         print('Yes')
     else:
         print('no')
-        print('Yes')
-        print('Yes')
+        #print('Yes')
+        #print('Yes')
         print('Yes')
         print('Yes')
         print('Yes')
