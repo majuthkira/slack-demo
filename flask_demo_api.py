@@ -24,8 +24,8 @@ def get_tasks():
     else:
         print('no')
         print('Yes')
-        print('Yes')
-        print('Yes')
+        #print('Yes')
+        #print('Yes')
         print('Yes')
         print('Yes')
         print('Yes')
