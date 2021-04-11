@@ -1,3 +1,5 @@
 Flask
 requests
 coverage
+slackclient
+python-dotenv
